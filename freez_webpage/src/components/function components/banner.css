@@ -1,0 +1,14 @@
+.banner img{
+    width: 100%;
+}
+.np {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: whitesmoke;
+    padding-left: 20%;
+    padding-right: 10%;
+}
+.np h2{
+    color: hotpink;
+}

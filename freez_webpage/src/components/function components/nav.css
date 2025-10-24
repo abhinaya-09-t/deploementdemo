@@ -1,0 +1,18 @@
+.nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+.ch1{
+    width: 60%;
+
+}
+li{
+    list-style: none;
+}
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    padding: 2%;
+}
